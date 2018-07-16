@@ -1,8 +1,8 @@
 import hashlib
 import time
 
-PUBLIC_KEY = "4a8774741cfbab6f60300546a1d57f3a"
-PRIVATE_KEY = "2ecc1f34d6b1bfd67632e9ec3e059a6064d133d2"
+PUBLIC_KEY = "{}"
+PRIVATE_KEY = "{}"
 
 
 class MarvelRequest:
